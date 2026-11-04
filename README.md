@@ -1,6 +1,7 @@
 # Wastewater Treatment Plant Estimator
-
 A small Python tool that automates the first design calculations for a municipal activated sludge plant (BOD removal only). Built as a personal portfolio project during my M.Sc. in Business Intelligence and Data Science. My background is in process engineering, where I prepared design calculations for water and wastewater treatment plant tenders.
+
+**Live app:** https://wwtp-estimator.streamlit.app/
 
 ![App](app_screenshot.png)
 
